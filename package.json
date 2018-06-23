@@ -1,5 +1,5 @@
 {
-  "name": "angular-7-boilerplate",
+  "name": "Angular-7-Startbase",
   "version": "1.0.0",
   "description": "Angular 7 Boilerplate",
   "scripts": {
@@ -42,7 +42,7 @@
     "boilerplate",
     "angular.io"
   ],
-  "author": "Mayank Patel <patelmayankce@gmail.com>",
+  "author": "Dream High <dreamhigh0822@outlook.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/patelmayankce/angular-7-boilerplate/issues"
